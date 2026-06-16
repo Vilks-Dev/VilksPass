@@ -1,7 +1,3 @@
-Voici un `README.md` concis pour le projet **VilksPass**.
-
----
-
 # VilksPass
 
 Un gestionnaire de mots de passe sécurisé conçu pour protéger vos identifiants localement avec des mécanismes de défense avancés.
